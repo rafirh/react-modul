@@ -36,6 +36,7 @@ class Gallery extends Component {
         
     
     }
+    render
     render(){
         return(
             <div className="container">
@@ -271,3 +272,6 @@ class Gallery extends Component {
     }
 }  
 export default Gallery;
+function sumTwoArray(){
+    
+}
